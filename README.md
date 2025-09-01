@@ -1,4 +1,4 @@
-# multix-amsterdam.github.io
+# Embedded Vision & AI Lab Homepage
 
-This repository hosts the code for the MultiX lab website, using the following template:
+This repository is created using the following template:
 - https://github.com/yenchiah/project-website-template
